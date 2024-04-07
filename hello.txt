@@ -10,7 +10,7 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! master test
-hello atguigu! hello git! hot-fix test
+hello atguigu! hello git! hot-fix test hot-fix test
 1111111111111111111111111111111
 2222222222222222222222222222222 by lhc
 3333333333333333333333333333333 by phind-4869
